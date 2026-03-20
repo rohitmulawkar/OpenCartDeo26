@@ -1,0 +1,261 @@
+08:29:19.041 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+08:29:20.594 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:29:21.589 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:29:21.590 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+08:29:41.613 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+08:35:01.875 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+08:35:03.170 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:35:05.068 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:35:05.070 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+08:35:25.145 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+08:36:42.363 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+08:36:44.761 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:36:45.162 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:36:45.162 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+08:37:05.216 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+08:38:05.148 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+08:38:09.090 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:38:12.404 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:38:12.405 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+08:38:32.474 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+08:39:25.611 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+08:39:27.672 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:39:29.317 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:39:29.317 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+08:39:49.377 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+08:41:22.840 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+08:41:25.047 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:41:29.307 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:41:29.308 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+08:41:49.332 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+08:42:40.337 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+08:42:42.876 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:42:44.467 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:42:44.468 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+08:42:44.885 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+08:42:44.924 [main] INFO  testCases.TC001_AccountSignUp - Line Number 36
+08:42:45.050 [main] INFO  testCases.TC001_AccountSignUp - Line Number 38
+08:42:46.870 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+08:52:36.503 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+08:52:39.886 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:52:44.612 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:52:44.613 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+08:52:45.000 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+08:52:45.047 [main] INFO  testCases.TC001_AccountSignUp - Line Number 36
+08:52:45.148 [main] INFO  testCases.TC001_AccountSignUp - Line Number 38
+08:52:46.792 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+08:53:24.938 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+08:53:26.480 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:53:28.260 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:53:28.260 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+08:53:28.702 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+08:53:28.758 [main] INFO  testCases.TC001_AccountSignUp - Line Number 36
+08:53:28.900 [main] INFO  testCases.TC001_AccountSignUp - Line Number 38
+08:53:30.616 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+08:54:15.836 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+08:54:20.198 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:54:23.720 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:54:23.720 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+08:54:24.044 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+08:54:24.068 [main] INFO  testCases.TC001_AccountSignUp - Line Number 36
+08:54:24.152 [main] INFO  testCases.TC001_AccountSignUp - Line Number 38
+08:54:24.685 [main] INFO  testCases.TC001_AccountSignUp - Line Number 44
+08:54:25.785 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+08:59:25.092 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+08:59:26.406 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:59:27.638 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+08:59:27.638 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+08:59:27.994 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+08:59:28.035 [main] INFO  testCases.TC001_AccountSignUp - Line Number 36
+08:59:28.142 [main] INFO  testCases.TC001_AccountSignUp - Line Number 38
+08:59:29.386 [main] INFO  testCases.TC001_AccountSignUp - Line Number 44
+08:59:30.520 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+09:02:26.416 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+09:02:27.884 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+09:02:28.848 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+09:02:28.849 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+09:02:33.960 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+09:02:33.991 [main] INFO  testCases.TC001_AccountSignUp - Line Number 36
+09:02:34.121 [main] INFO  testCases.TC001_AccountSignUp - Line Number 38
+09:02:35.274 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+09:03:25.756 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+09:03:26.841 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+09:03:36.321 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+09:03:36.321 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+09:03:36.590 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+09:03:36.621 [main] INFO  testCases.TC001_AccountSignUp - Line Number 36
+09:03:37.770 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+09:05:00.303 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+09:05:02.545 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+09:05:02.966 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+09:05:02.966 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+09:05:04.945 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+09:05:04.976 [main] INFO  testCases.TC001_AccountSignUp - Line Number 36
+09:05:06.222 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+09:06:39.543 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+09:06:41.623 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+09:06:45.848 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+09:06:45.848 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+09:06:46.215 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+09:06:46.242 [main] INFO  testCases.TC001_AccountSignUp - Line Number 36
+09:06:47.436 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+09:08:22.947 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+09:08:24.313 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+09:08:29.663 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+09:08:29.664 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+09:08:30.046 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+09:08:30.072 [main] INFO  testCases.TC001_AccountSignUp - Line Number 36
+09:08:31.326 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+09:11:08.123 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+09:11:11.217 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+09:11:13.587 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+09:11:13.593 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+09:11:14.068 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+09:11:14.248 [main] INFO  testCases.TC001_AccountSignUp - Line Number 38
+09:11:15.991 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+09:12:13.571 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+09:12:16.690 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+09:12:21.156 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+09:12:21.156 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+09:12:21.492 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+09:12:21.517 [main] INFO  testCases.TC001_AccountSignUp - Line Number 38
+09:12:22.754 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+15:28:26.985 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+15:28:28.846 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+15:28:32.315 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+15:28:32.316 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+15:28:32.605 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+15:28:32.628 [main] INFO  testCases.TC001_AccountSignUp - Line Number 38
+15:28:33.792 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+15:30:04.578 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+15:30:07.095 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+15:30:07.522 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+15:30:07.522 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+15:30:10.752 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+15:30:10.774 [main] INFO  testCases.TC001_AccountSignUp - Line Number 38
+15:30:10.851 [main] INFO  testCases.TC001_AccountSignUp - Line Number 42 
+15:30:11.996 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+15:32:21.093 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+15:32:22.319 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+15:32:26.670 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+15:32:26.670 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+15:32:26.881 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+15:32:26.898 [main] INFO  testCases.TC001_AccountSignUp - Line Number 38
+15:32:26.980 [main] INFO  testCases.TC001_AccountSignUp - Line Number 42 
+15:32:28.113 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+15:41:59.403 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+15:42:00.757 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+15:42:05.587 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+15:42:05.587 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+15:42:05.995 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+15:42:06.020 [main] INFO  testCases.TC001_AccountSignUp - Line Number 38
+15:42:06.097 [main] INFO  testCases.TC001_AccountSignUp - Line Number 42 
+15:42:07.276 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+15:44:47.723 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+15:44:50.140 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+15:44:50.517 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+15:44:50.517 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+15:44:51.725 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+15:44:51.771 [main] INFO  testCases.TC001_AccountSignUp - Line Number 38
+15:44:51.905 [main] INFO  testCases.TC001_AccountSignUp - Line Number 42 
+15:45:12.626 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+15:49:27.890 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+15:49:29.820 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+15:49:30.630 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+15:49:30.630 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+15:49:32.283 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+15:49:32.318 [main] INFO  testCases.TC001_AccountSignUp - Line Number 38
+15:49:32.467 [main] INFO  testCases.TC001_AccountSignUp - Line Number 42 
+15:49:52.866 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+15:50:42.701 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+15:50:44.698 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+15:50:46.432 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+15:50:46.432 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+15:50:46.747 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+15:50:46.763 [main] INFO  testCases.TC001_AccountSignUp - Line Number 38
+15:50:46.851 [main] INFO  testCases.TC001_AccountSignUp - Line Number 42 
+15:50:48.493 [main] INFO  testCases.TC001_AccountSignUp - Line Number 44
+15:50:48.494 [main] INFO  testCases.TC001_AccountSignUp - Line Number 45
+15:50:48.494 [main] INFO  testCases.TC001_AccountSignUp - Entering Month
+15:50:49.746 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+15:52:23.303 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+15:52:26.950 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+15:52:30.165 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+15:52:30.166 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+15:52:30.395 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+15:52:30.428 [main] INFO  testCases.TC001_AccountSignUp - Line Number 38
+15:52:30.518 [main] INFO  testCases.TC001_AccountSignUp - Line Number 42 
+15:52:30.989 [main] INFO  testCases.TC001_AccountSignUp - Line Number 44
+15:52:30.989 [main] INFO  testCases.TC001_AccountSignUp - Line Number 45
+15:52:30.990 [main] INFO  testCases.TC001_AccountSignUp - Entering Month
+15:52:51.423 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+15:54:00.328 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+15:54:01.971 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+15:54:03.033 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+15:54:03.033 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+15:54:06.124 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+15:54:06.162 [main] INFO  testCases.TC001_AccountSignUp - Line Number 38
+15:54:06.259 [main] INFO  testCases.TC001_AccountSignUp - Line Number 42 
+15:54:06.757 [main] INFO  testCases.TC001_AccountSignUp - Line Number 44
+15:54:06.757 [main] INFO  testCases.TC001_AccountSignUp - Line Number 45
+15:54:06.757 [main] INFO  testCases.TC001_AccountSignUp - Entering Month
+15:54:27.573 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+15:55:54.610 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+15:55:57.314 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+15:55:57.803 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+15:55:57.803 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+15:56:01.229 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+15:56:01.261 [main] INFO  testCases.TC001_AccountSignUp - Line Number 38
+15:56:01.360 [main] INFO  testCases.TC001_AccountSignUp - Line Number 42 
+15:56:01.821 [main] INFO  testCases.TC001_AccountSignUp - Line Number 44
+15:56:01.821 [main] INFO  testCases.TC001_AccountSignUp - Line Number 45
+15:56:01.821 [main] INFO  testCases.TC001_AccountSignUp - Entering Month
+16:02:09.035 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+16:02:10.400 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+16:02:12.712 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+16:02:12.712 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+16:02:32.796 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+16:03:26.660 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+16:03:30.505 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+16:03:34.398 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+16:03:34.398 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+16:03:34.779 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+16:03:34.836 [main] INFO  testCases.TC001_AccountSignUp - Line Number 38
+16:03:35.040 [main] INFO  testCases.TC001_AccountSignUp - Line Number 42 
+16:03:35.691 [main] INFO  testCases.TC001_AccountSignUp - Line Number 44
+16:03:35.693 [main] INFO  testCases.TC001_AccountSignUp - Line Number 45
+16:03:35.693 [main] INFO  testCases.TC001_AccountSignUp - Entering Month
+16:03:40.951 [main] INFO  testCases.TC001_AccountSignUp - ****Finished TC001_AccountSignUp  *****
+16:09:24.734 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+16:09:26.262 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+16:09:28.615 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+16:09:28.615 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+16:09:28.783 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+16:09:29.155 [main] INFO  testCases.TC001_AccountSignUp - Line Number 38
+16:09:29.341 [main] INFO  testCases.TC001_AccountSignUp - Line Number 42 
+16:09:30.609 [main] INFO  testCases.TC001_AccountSignUp - Line Number 44
+16:09:30.610 [main] INFO  testCases.TC001_AccountSignUp - Line Number 45
+16:09:30.610 [main] INFO  testCases.TC001_AccountSignUp - Entering Month
+16:09:40.042 [main] INFO  testCases.TC001_AccountSignUp - ****Finished TC001_AccountSignUp  *****
+16:10:55.070 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+16:10:58.799 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+16:11:00.381 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+16:11:00.383 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+16:11:00.812 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+16:11:00.942 [main] INFO  testCases.TC001_AccountSignUp - Line Number 38
+16:11:01.116 [main] INFO  testCases.TC001_AccountSignUp - Line Number 42 
+16:11:02.315 [main] INFO  testCases.TC001_AccountSignUp - Line Number 44
+16:11:02.316 [main] INFO  testCases.TC001_AccountSignUp - Line Number 45
+16:11:02.316 [main] INFO  testCases.TC001_AccountSignUp - Entering Month
+16:11:10.362 [main] INFO  testCases.TC001_AccountSignUp - ****Finished TC001_AccountSignUp  *****
+16:11:10.956 [main] INFO  testCases.TC001_AccountSignUp - Test End and Browser closed
+16:20:15.836 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+16:20:18.623 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+16:20:18.979 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+16:20:18.979 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+16:20:42.873 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+16:20:43.688 [main] INFO  testCases.TC001_AccountSignUp - Entering Month
+16:20:48.809 [main] INFO  testCases.TC001_AccountSignUp - ****Finished TC001_AccountSignUp  *****
+16:20:49.517 [main] INFO  testCases.TC001_AccountSignUp - Test End and Browser closed
+17:45:20.222 [main] INFO  testCases.TC002_LoginTestUsingDTT - Test End and Browser closed
+17:45:56.072 [main] INFO  testCases.TC002_LoginTestUsingDTT - Test End and Browser closed

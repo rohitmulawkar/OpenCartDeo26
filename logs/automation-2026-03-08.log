@@ -1,0 +1,7 @@
+10:35:48.599 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+10:35:52.829 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+10:35:54.943 [main] ERROR testCases.TC001_AccountSignUp - Test Failed
+10:35:56.948 [main] INFO  testCases.TC001_AccountSignUp - Test End and Browser closed
+10:36:02.973 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest*******
+10:36:14.985 [main] INFO  testCases.TC002_LoginTest - *** Finished  TC002_LoginTest*******
+10:36:22.499 [main] INFO  testCases.TC002_LoginTest - Test End and Browser closed

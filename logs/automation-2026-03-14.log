@@ -1,0 +1,27 @@
+12:40:12.198 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest*******
+12:40:36.091 [main] INFO  testCases.TC002_LoginTest - Test End and Browser closed
+12:40:55.862 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest*******
+12:41:19.639 [main] INFO  testCases.TC002_LoginTest - Test End and Browser closed
+12:43:03.689 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest*******
+12:43:27.909 [main] INFO  testCases.TC002_LoginTest - Test End and Browser closed
+12:51:50.172 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest*******
+12:52:01.350 [main] INFO  testCases.TC002_LoginTest - ************Clicked on the loginBttn*******
+12:52:01.451 [main] INFO  testCases.TC002_LoginTest - *** Finished  TC002_LoginTest*******
+12:52:03.922 [main] INFO  testCases.TC002_LoginTest - Test End and Browser closed
+13:18:04.541 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest*******
+13:18:12.083 [main] INFO  testCases.TC002_LoginTest - ************Clicked on the loginBttn*******
+13:18:12.163 [main] INFO  testCases.TC002_LoginTest - *** Finished  TC002_LoginTest*******
+13:18:17.031 [main] INFO  testCases.TC002_LoginTest - Test End and Browser closed
+13:18:43.117 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest*******
+13:18:45.271 [main] INFO  testCases.TC002_LoginTest - ************Clicked on the loginBttn*******
+13:18:50.569 [main] INFO  testCases.TC002_LoginTest - *** Finished  TC002_LoginTest*******
+13:18:59.718 [main] INFO  testCases.TC002_LoginTest - Test End and Browser closed
+13:20:58.791 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest*******
+13:21:01.198 [main] INFO  testCases.TC002_LoginTest - ************Clicked on the loginBttn*******
+13:21:08.628 [main] INFO  testCases.TC002_LoginTest - *** Finished  TC002_LoginTest*******
+13:21:15.383 [main] INFO  testCases.TC002_LoginTest - Test End and Browser closed
+13:21:57.201 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest*******
+13:21:59.357 [main] INFO  testCases.TC002_LoginTest - ************Clicked on the loginBttn*******
+13:22:03.352 [main] INFO  testCases.TC002_LoginTest - *** Finished  TC002_LoginTest*******
+13:22:05.849 [main] INFO  testCases.TC002_LoginTest - Test End and Browser closed
+23:58:35.520 [main] INFO  testCases.TC008_VerifyProductsPage - Test End and Browser closed
