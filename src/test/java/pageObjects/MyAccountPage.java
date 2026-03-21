@@ -1,8 +1,11 @@
 package pageObjects;
 
+
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 
 public class MyAccountPage extends BasePage{
 	
@@ -20,6 +23,8 @@ public class MyAccountPage extends BasePage{
 	WebElement bttnDeleteAcct;
 	public boolean  isMyAccountExists()
 	{
+		
+		fluentWait.until(ExpectedConditions.visibilityOf(bttnDeleteAcct));
 		return bttnDeleteAcct.isDisplayed();
 		
 	}

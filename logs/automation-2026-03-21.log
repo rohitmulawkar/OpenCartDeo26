@@ -1,0 +1,37 @@
+20:27:19.617 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest*******
+20:27:23.789 [main] INFO  testCases.TC002_LoginTest - ************Clicked on the loginBttn*******
+20:27:24.177 [main] INFO  testCases.TC002_LoginTest - Test End and Browser closed
+20:35:33.786 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest*******
+20:35:38.173 [main] INFO  testCases.TC002_LoginTest - ************Clicked on the loginBttn*******
+20:35:38.487 [main] INFO  testCases.TC002_LoginTest - Test End and Browser closed
+20:40:48.673 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest*******
+20:40:58.862 [main] INFO  testCases.TC002_LoginTest - ************Clicked on the loginBttn*******
+20:41:39.219 [main] INFO  testCases.TC002_LoginTest - Test End and Browser closed
+20:44:07.515 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest*******
+20:44:11.172 [main] INFO  testCases.TC002_LoginTest - ************Clicked on the loginBttn*******
+20:44:51.751 [main] INFO  testCases.TC002_LoginTest - Test End and Browser closed
+20:48:32.599 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest*******
+20:48:34.962 [main] INFO  testCases.TC002_LoginTest - ************Clicked on the loginBttn*******
+20:49:15.480 [main] INFO  testCases.TC002_LoginTest - Test End and Browser closed
+20:52:00.642 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest*******
+20:52:04.024 [main] INFO  testCases.TC002_LoginTest - ************Clicked on the loginBttn*******
+20:52:44.680 [main] INFO  testCases.TC002_LoginTest - Test End and Browser closed
+20:56:59.762 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest*******
+20:57:02.399 [main] INFO  testCases.TC002_LoginTest - ************Clicked on the loginBttn*******
+20:57:42.921 [main] INFO  testCases.TC002_LoginTest - Test End and Browser closed
+20:58:05.458 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest*******
+20:58:08.204 [main] INFO  testCases.TC002_LoginTest - ************Clicked on the loginBttn*******
+20:58:48.784 [main] INFO  testCases.TC002_LoginTest - Test End and Browser closed
+20:59:02.636 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest*******
+20:59:06.588 [main] INFO  testCases.TC002_LoginTest - ************Clicked on the loginBttn*******
+20:59:47.203 [main] INFO  testCases.TC002_LoginTest - Test End and Browser closed
+21:00:56.043 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest*******
+21:00:59.865 [main] INFO  testCases.TC002_LoginTest - ************Clicked on the loginBttn*******
+21:01:40.437 [main] INFO  testCases.TC002_LoginTest - Test End and Browser closed
+21:02:18.199 [main] INFO  testCases.TC001_AccountSignUp - ****Starting TC001_AccountSignUp  *****
+21:02:20.071 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+21:02:21.242 [main] INFO  testCases.TC001_AccountSignUp - clicked on SignUpLogin
+21:02:21.242 [main] INFO  testCases.TC001_AccountSignUp - **Check if Email is already exists******
+21:02:45.527 [main] INFO  testCases.TC001_AccountSignUp - ***********Checking the Email entered and showing is same**********
+21:02:46.081 [main] INFO  testCases.TC001_AccountSignUp - Entering Month
+21:03:08.547 [main] INFO  testCases.TC001_AccountSignUp - Test End and Browser closed

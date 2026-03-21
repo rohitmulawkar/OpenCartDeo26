@@ -2,6 +2,7 @@ package testCases;
 import TestBase.BaseClass;
 
 import org.testng.Assert;
+import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 import pageObjects.*;
 import pageObjects.MyAccountPage;
@@ -9,6 +10,7 @@ import pageObjects.MyAccountPage;
 public class TC002_LoginTest extends BaseClass {
 	
 	@Test (groups="sanity")
+   @Parameters({"chrome","windows"})
 	public void verify_login()
 	{ 	
 		logger.info("*** Starting TC002_LoginTest*******");

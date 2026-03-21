@@ -1,6 +1,7 @@
 package pageObjects;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.FindBy ;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 public class SignUpPage extends BasePage{
 	
 	public SignUpPage(WebDriver driver) 
@@ -13,7 +14,7 @@ public class SignUpPage extends BasePage{
 	WebElement loginEmail;
 	@FindBy(xpath="//form[@action=\"/login\"]//input[@name=\"password\"]")
 	WebElement loginPass;
-	@FindBy(xpath="//form[@action='/login']//button[@type='submit']")
+	@FindBy(xpath="//*[@id=\"form\"]/div/div/div[1]/div/form/button")
 	WebElement bttnLogin;
 	
 	@FindBy(xpath="//input[@name=\"name\"]")
@@ -40,25 +41,31 @@ public class SignUpPage extends BasePage{
     	 
      }
      public void scrollScreenToLogin() {
-    	 
+    	
     	 JavascriptExecutor js = (JavascriptExecutor)driver;
     	 js.executeScript("arguments[0].scrollIntoView(true)",txtLogin2Acct );
      }
      public void enterloginEmail(String emailid) {
     	
-    	 loginEmail.click();
     	 loginEmail.sendKeys(emailid);
     	    	 
      }
      
      public void enterloginPass(String pass) {
-    	// loginPass.click();
+    	
     	 loginPass.sendKeys(pass);
     	    	 
      }
      public void clickBttnLogin() {
-    	 
-    	 bttnLogin.click();
+    	 System.out.println("Displayed: " + bttnLogin.isDisplayed());
+    	 System.out.println("Enabled: " + bttnLogin.isEnabled());
+    	 System.out.println("Location: " + bttnLogin.getLocation());
+    	 try {
+    	        fluentWait.until(ExpectedConditions.elementToBeClickable(bttnLogin)).click();
+    	    } catch (Exception e) {
+    	        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", bttnLogin);
+    	        ((JavascriptExecutor) driver).executeScript("arguments[0].click();", bttnLogin);
+    	    }
      }
 	 public boolean chkduplicateEmail() {
           try {

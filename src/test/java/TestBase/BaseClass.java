@@ -29,7 +29,7 @@ public class BaseClass {
     public static WebDriver driver;
     public Logger logger;
     public Properties p;
-
+    
     @BeforeClass(groups = {"sanity", "regression"})
     @Parameters({"browser","os"})
     public void setup(String br,String os) throws IOException {  // ✅ FIX: @Optional added
@@ -107,7 +107,7 @@ public class BaseClass {
 
     @AfterClass(groups = {"sanity", "regression"})
     public void tearDown() {
-        //driver.quit();
+      driver.quit();
         logger.info("Test End and Browser closed");
     }
 
